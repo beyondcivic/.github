@@ -8,7 +8,7 @@ _Building the infrastructure for the next generation of data sharing, trust, and
 
 [![Website](https://img.shields.io/badge/Website-beyondcivic.com-000?style=for-the-badge&logo=About.me&logoColor=white)](https://beyondcivic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/beyondcivic)
-[![Contact Us](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@beyondcivic.com)
+[![Contact Us](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@beyondcivic.com)
 
 </div>
 
