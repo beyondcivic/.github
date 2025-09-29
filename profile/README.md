@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://beyondcivic.com/static/img/logos/beyondcivic-logo.svg" width="140" alt="Beyond Civic Logo" />
-
-# 🚀 Beyond Civic
+<img src="https://beyondcivic.com/logo_beyondcivic_no_margin.svg" width="240" alt="Beyond Civic Logo" />
 
 ### Data Ecosystem Builders | Secure Data Collaboration Experts
 
@@ -27,7 +25,7 @@ Beyond Civic empowers organizations and cities to solve tomorrow's challenges wi
 - Digital Twins, Urban Data Mesh, Net Zero Solutions
 - Public-Private Data Collaborations
 
-_Based in Lucerne, Switzerland – delivering solutions across Europe and beyond._[web:1][web:9][web:5]
+_Based in Lucerne, Switzerland – delivering solutions across Europe and beyond.
 
 ---
 
@@ -48,7 +46,7 @@ _Based in Lucerne, Switzerland – delivering solutions across Europe and beyond
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ Urban Data Mesh
+### 🏙️ [Urban Data Mesh](https://beyondcivic.com/en/solutions/urban-data-mesh)
 
 > Smart City ecosystems, built for scale
 
