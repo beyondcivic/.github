@@ -73,7 +73,7 @@ Standardizing ML dataset metadata via JSON-LD (Go)
 <td width="50%" valign="top">
 
 **🦀 [rustcroissant](https://github.com/beyondcivic/rustcroissant)**  
-High-performance metadata for ML Commons Croissant (Rust)
+Standardizing ML dataset metadata via JSON-LD (Rust)
 
 </td>
 </tr>
