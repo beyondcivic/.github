@@ -77,6 +77,15 @@ Standardizing ML dataset metadata via JSON-LD (Rust)
 
 </td>
 </tr>
+<tr>
+  <tr>
+<td width="50%" valign="top">
+
+**📅 [icaljson](https://github.com/beyondcivic/icaljson)**  
+Parses ics files into JSON format (Go)
+
+</td>
+</tr>
 </table>
 
 ---
