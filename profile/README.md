@@ -87,7 +87,7 @@ Parses ics files into JSON format (Go)
 </td>
 <td width="50%" valign="top">
 
-**📅 [gogeo](https://github.com/beyondcivic/gogeo)**  
+**🌍 [gogeo](https://github.com/beyondcivic/gogeo)**  
 Parses GeoJSON files into GeoParquet format (Go)
 
 </td>
