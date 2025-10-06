@@ -20,12 +20,12 @@ Beyond Civic empowers organizations and cities to solve tomorrow's challenges wi
 
 **Focus Areas:**
 - Data Spaces & Interoperability
-- Consent Management & Governance
+- Data Management & Governance
 - Confidential Computing & PETs
-- Digital Twins, Urban Data Mesh, Net Zero Solutions
+- Urban Data Mesh & Urban AI
 - Public-Private Data Collaborations
 
-_Based in Lucerne, Switzerland – delivering solutions across Europe and beyond.
+_Based in Lucerne, Switzerland – delivering solutions across Europe and beyond._
 
 ---
 
