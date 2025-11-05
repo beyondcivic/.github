@@ -92,6 +92,14 @@ Parses GeoJSON files into GeoParquet format (Go)
 
 </td>
 </tr>
+ <tr>
+<td width="50%" valign="top">
+
+**🪒 [goxjt](https://github.com/beyondcivic/goxjt)**  
+Converts XML documents to JSON using user-defined schemas with XPath expressions. (Go)
+
+</td>
+</tr>
 </table>
 
 ---
