@@ -99,6 +99,12 @@ Parses GeoJSON files into GeoParquet format (Go)
 Converts XML documents to JSON using user-defined schemas with XPath expressions. (Go)
 
 </td>
+<td width="50%" valign="top">
+
+**🧠 [goreasoner](https://github.com/beyondcivic/goreasoner)**  
+A Go implementation of a forward reasoner for RDF/OWL ontologies. This library provides both command-line interface and Go library for semantic reasoning, parsing Turtle format inputs and applying RDFS/OWL inference rules to derive new facts from TBox (terminology/schema) and ABox (assertions/instances).
+
+</td>
 </tr>
 </table>
 
@@ -139,7 +145,7 @@ Have a challenge to solve or want to join our mission?
 
 <div align="center">
 
-_“We build the trust infrastructure for data-driven ecosystems. Ready for a connected future.”_
+_"We build the trust infrastructure for data-driven ecosystems. Ready for a connected future."_
 
 ⭐️ _If you find our work impactful, show support by starring our repositories!_
 
