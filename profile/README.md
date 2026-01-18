@@ -102,7 +102,7 @@ Converts XML documents to JSON using user-defined schemas with XPath expressions
 <td width="50%" valign="top">
 
 **🧠 [goreasoner](https://github.com/beyondcivic/goreasoner)**  
-A Go implementation of a forward reasoner for RDF/OWL ontologies. This library provides both command-line interface and Go library for semantic reasoning, parsing Turtle format inputs and applying RDFS/OWL inference rules to derive new facts from TBox (terminology/schema) and ABox (assertions/instances).
+A Go implementation of a forward reasoner for RDF/OWL ontologies.
 
 </td>
 </tr>
