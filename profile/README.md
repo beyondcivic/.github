@@ -35,7 +35,7 @@ _Based in Lucerne, Switzerland – delivering solutions across Europe and beyond
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [TrustRelay](https://beyondcivic.com/en/trustrelay)
+### 🔗 [TrustRelay](https://beyondcivic.com/en/product)
 
 > Secure, federated data-sharing made simple
 
